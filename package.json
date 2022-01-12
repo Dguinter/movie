@@ -1,0 +1,22 @@
+{
+  "name": "dsmovie",
+  "version": "1.0.0",
+  "description": "Semana Spring boot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dguinter/movie.git"
+  },
+  "keywords": [
+    "SHA256:5ElkuKU8fE4a0QcZyfOtlwf0RWTmCz2RHOMN6x3qABQ"
+  ],
+  "author": "Daniel Guinter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dguinter/movie/issues"
+  },
+  "homepage": "https://github.com/Dguinter/movie#readme"
+}
